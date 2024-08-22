@@ -1,0 +1,1 @@
+This repo contains source code of thermistor data acquisition and GUI to monitor in Windows OS
